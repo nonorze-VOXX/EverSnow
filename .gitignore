@@ -75,3 +75,5 @@ crashlytics-build.properties
 .idea/
 .vscode/
 .config/
+/[Aa]ssets/Dev-Assets/*
+!/[Aa]ssets/Dev-Assets/.gitkeep
